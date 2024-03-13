@@ -1,0 +1,6 @@
+@UpAPI.API_HostAddress = http://localhost:5263
+
+GET {{UpAPI.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

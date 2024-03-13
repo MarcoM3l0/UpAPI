@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C9TqLJYLEo6Pe2pbYPq6H51NoLCJWNRWrruq1YjbAF0=",
+  "Source": "UpAPI.API",
+  "BasePath": "_content/UpAPI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
