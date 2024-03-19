@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UpAPI.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70d16bc2f1b65625b616824d3131074c0d7ffdb3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1851b597ad61a67908132279896f7218bd311fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("UpAPI.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UpAPI.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
