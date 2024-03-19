@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Dev\\UpAPI\\UpAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCBF745-7BA2-4795-90C7-5890BB9FD48D}|..\\UpAPI.Aplicacao\\UpAPI.Aplicacao.csproj|c:\\users\\user\\desktop\\dev\\upapi\\upapi.aplicacao\\usecases\\uses\\uploadfotoperfil\\uploadfotoperfilusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4301A021-D29F-400B-ACEE-9542FDE1B56E}|UpAPI.API\\UpAPI.API.csproj|c:\\users\\user\\desktop\\dev\\upapi\\upapi\\upapi.api\\controllers\\armazenarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4301A021-D29F-400B-ACEE-9542FDE1B56E}|UpAPI.API\\UpAPI.API.csproj|solutionrelative:upapi.api\\controllers\\armazenarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UploadFotoPerfilUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Dev\\UpAPI\\UpAPI.Aplicacao\\UseCases\\Uses\\UploadFotoPerfil\\UploadFotoPerfilUseCase.cs",
+              "RelativeDocumentMoniker": "..\\UpAPI.Aplicacao\\UseCases\\Uses\\UploadFotoPerfil\\UploadFotoPerfilUseCase.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Dev\\UpAPI\\UpAPI.Aplicacao\\UseCases\\Uses\\UploadFotoPerfil\\UploadFotoPerfilUseCase.cs",
+              "RelativeToolTip": "..\\UpAPI.Aplicacao\\UseCases\\Uses\\UploadFotoPerfil\\UploadFotoPerfilUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:11:39.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArmazenarController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Dev\\UpAPI\\UpAPI\\UpAPI.API\\Controllers\\ArmazenarController.cs",
+              "RelativeDocumentMoniker": "UpAPI.API\\Controllers\\ArmazenarController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Dev\\UpAPI\\UpAPI\\UpAPI.API\\Controllers\\ArmazenarController.cs",
+              "RelativeToolTip": "UpAPI.API\\Controllers\\ArmazenarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T18:34:00.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

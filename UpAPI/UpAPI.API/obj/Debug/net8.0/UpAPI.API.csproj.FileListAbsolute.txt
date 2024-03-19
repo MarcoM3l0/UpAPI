@@ -25,9 +25,9 @@ C:\Users\User\Desktop\Dev\UpAPI\UpAPI\UpAPI.API\obj\Debug\net8.0\staticwebassets
 C:\Users\User\Desktop\Dev\UpAPI\UpAPI\UpAPI.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UpAPI.API.props
 C:\Users\User\Desktop\Dev\UpAPI\UpAPI\UpAPI.API\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\User\Desktop\Dev\UpAPI\UpAPI\UpAPI.API\obj\Debug\net8.0\scopedcss\bundle\UpAPI.API.styles.css
-C:\Users\User\Desktop\Dev\UpAPI\UpAPI\UpAPI.API\obj\Debug\net8.0\UpAPI.API.csproj.CopyComplete
 C:\Users\User\Desktop\Dev\UpAPI\UpAPI\UpAPI.API\obj\Debug\net8.0\UpAPI.API.dll
 C:\Users\User\Desktop\Dev\UpAPI\UpAPI\UpAPI.API\obj\Debug\net8.0\refint\UpAPI.API.dll
 C:\Users\User\Desktop\Dev\UpAPI\UpAPI\UpAPI.API\obj\Debug\net8.0\UpAPI.API.pdb
 C:\Users\User\Desktop\Dev\UpAPI\UpAPI\UpAPI.API\obj\Debug\net8.0\UpAPI.API.genruntimeconfig.cache
 C:\Users\User\Desktop\Dev\UpAPI\UpAPI\UpAPI.API\obj\Debug\net8.0\ref\UpAPI.API.dll
+C:\Users\User\Desktop\Dev\UpAPI\UpAPI\UpAPI.API\obj\Debug\net8.0\UpAPI.API.csproj.Up2Date
