@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("UpAPI.API")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("UpAPI.Dominio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+264fc5eef071df5cdac2ea32853d659a4e578343")]
-[assembly: System.Reflection.AssemblyProductAttribute("UpAPI.API")]
-[assembly: System.Reflection.AssemblyTitleAttribute("UpAPI.API")]
+[assembly: System.Reflection.AssemblyProductAttribute("UpAPI.Dominio")]
+[assembly: System.Reflection.AssemblyTitleAttribute("UpAPI.Dominio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

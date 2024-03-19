@@ -106,13 +106,27 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "File.TypeChecker": "4.0.0"
+          "File.TypeChecker": "4.0.0",
+          "UpAPI.Dominio": "1.0.0"
         },
         "compile": {
           "bin/placeholder/UpAPI.Aplicacao.dll": {}
         },
         "runtime": {
           "bin/placeholder/UpAPI.Aplicacao.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "UpAPI.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/UpAPI.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UpAPI.Dominio.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -469,6 +483,11 @@
       "type": "project",
       "path": "../../UpAPI.Aplicacao/UpAPI.Aplicacao.csproj",
       "msbuildProject": "../../UpAPI.Aplicacao/UpAPI.Aplicacao.csproj"
+    },
+    "UpAPI.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../UpAPI.Dominio/UpAPI.Dominio.csproj",
+      "msbuildProject": "../UpAPI.Dominio/UpAPI.Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {

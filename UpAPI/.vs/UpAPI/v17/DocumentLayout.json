@@ -6,8 +6,16 @@
       "AbsoluteMoniker": "D:0:0:{1BCBF745-7BA2-4795-90C7-5890BB9FD48D}|..\\UpAPI.Aplicacao\\UpAPI.Aplicacao.csproj|c:\\users\\user\\desktop\\dev\\upapi\\upapi.aplicacao\\usecases\\uses\\uploadfotoperfil\\uploadfotoperfilusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4301A021-D29F-400B-ACEE-9542FDE1B56E}|UpAPI.API\\UpAPI.API.csproj|c:\\users\\user\\desktop\\dev\\upapi\\upapi\\upapi.api\\controllers\\armazenarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4301A021-D29F-400B-ACEE-9542FDE1B56E}|UpAPI.API\\UpAPI.API.csproj|solutionrelative:upapi.api\\controllers\\armazenarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E157A0C6-4333-466F-BCF8-E31C52CFDF26}|UpAPI.Infraestrutura\\UpAPI.Infraestrutura.csproj|c:\\users\\user\\desktop\\dev\\upapi\\upapi\\upapi.infraestrutura\\armazenamento\\googledrivearmazenamentoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E157A0C6-4333-466F-BCF8-E31C52CFDF26}|UpAPI.Infraestrutura\\UpAPI.Infraestrutura.csproj|solutionrelative:upapi.infraestrutura\\armazenamento\\googledrivearmazenamentoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B16071E-033E-4A9E-B347-A28D133CBD1E}|UpAPI.Dominio\\UpAPI.Dominio.csproj|c:\\users\\user\\desktop\\dev\\upapi\\upapi\\upapi.dominio\\armazenamento\\iarmazenamentoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B16071E-033E-4A9E-B347-A28D133CBD1E}|UpAPI.Dominio\\UpAPI.Dominio.csproj|solutionrelative:upapi.dominio\\armazenamento\\iarmazenamentoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B16071E-033E-4A9E-B347-A28D133CBD1E}|UpAPI.Dominio\\UpAPI.Dominio.csproj|c:\\users\\user\\desktop\\dev\\upapi\\upapi\\upapi.dominio\\entidades\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B16071E-033E-4A9E-B347-A28D133CBD1E}|UpAPI.Dominio\\UpAPI.Dominio.csproj|solutionrelative:upapi.dominio\\entidades\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +25,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GoogleDriveArmazenamentoServico.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Dev\\UpAPI\\UpAPI\\UpAPI.Infraestrutura\\Armazenamento\\GoogleDriveArmazenamentoServico.cs",
+              "RelativeDocumentMoniker": "UpAPI.Infraestrutura\\Armazenamento\\GoogleDriveArmazenamentoServico.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Dev\\UpAPI\\UpAPI\\UpAPI.Infraestrutura\\Armazenamento\\GoogleDriveArmazenamentoServico.cs",
+              "RelativeToolTip": "UpAPI.Infraestrutura\\Armazenamento\\GoogleDriveArmazenamentoServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:06:30.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Dev\\UpAPI\\UpAPI\\UpAPI.Dominio\\Entidades\\User.cs",
+              "RelativeDocumentMoniker": "UpAPI.Dominio\\Entidades\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Dev\\UpAPI\\UpAPI\\UpAPI.Dominio\\Entidades\\User.cs",
+              "RelativeToolTip": "UpAPI.Dominio\\Entidades\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:56:40.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IArmazenamentoServico.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Dev\\UpAPI\\UpAPI\\UpAPI.Dominio\\Armazenamento\\IArmazenamentoServico.cs",
+              "RelativeDocumentMoniker": "UpAPI.Dominio\\Armazenamento\\IArmazenamentoServico.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Dev\\UpAPI\\UpAPI\\UpAPI.Dominio\\Armazenamento\\IArmazenamentoServico.cs",
+              "RelativeToolTip": "UpAPI.Dominio\\Armazenamento\\IArmazenamentoServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:54:48.434Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -27,22 +74,9 @@
               "RelativeDocumentMoniker": "..\\UpAPI.Aplicacao\\UseCases\\Uses\\UploadFotoPerfil\\UploadFotoPerfilUseCase.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Dev\\UpAPI\\UpAPI.Aplicacao\\UseCases\\Uses\\UploadFotoPerfil\\UploadFotoPerfilUseCase.cs",
               "RelativeToolTip": "..\\UpAPI.Aplicacao\\UseCases\\Uses\\UploadFotoPerfil\\UploadFotoPerfilUseCase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAA5wCQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T19:11:39.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ArmazenarController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Dev\\UpAPI\\UpAPI\\UpAPI.API\\Controllers\\ArmazenarController.cs",
-              "RelativeDocumentMoniker": "UpAPI.API\\Controllers\\ArmazenarController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Dev\\UpAPI\\UpAPI\\UpAPI.API\\Controllers\\ArmazenarController.cs",
-              "RelativeToolTip": "UpAPI.API\\Controllers\\ArmazenarController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T18:34:00.89Z",
+              "WhenOpened": "2024-03-19T19:50:42.939Z",
               "EditorCaption": ""
             }
           ]
