@@ -6,13 +6,14 @@ using UpAPI.Dominio.Entidades;
 
 namespace UpAPI.Aplicacao.UseCases.Uses.UploadFotoPerfil;
 
-public class UploadFotoPerfilUseCase
+public class UploadFotoPerfilUseCase : IUploadFotoPerfilUseCase
 {
     private readonly IArmazenamentoServico _armazenamentoServico;
     public UploadFotoPerfilUseCase(IArmazenamentoServico armazenamentoServico)
     {
         _armazenamentoServico = armazenamentoServico;
     }
+
 
     public void Execucao(IFormFile arquivo)
     {
@@ -23,7 +24,9 @@ public class UploadFotoPerfilUseCase
         if (!isImagem)
             throw new Exception("O arquivo não é uma imagem!");
 
-        _armazenamentoServico.Upload(arquivo, );
+        var usuario = GetFromDataBase();
+
+        _armazenamentoServico.Upload(arquivo, usuario);
 
     }
 
@@ -34,7 +37,9 @@ public class UploadFotoPerfilUseCase
         {
             Id = 1,
             Name = "Marco",
-            Email = ""
+            Email = "josemarcomelonascimento@gmail.com",
+            AccessToken = "seu token",
+            RefreshToken = "seu token"
         };
     }
 }

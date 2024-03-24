@@ -7,10 +7,8 @@ namespace UpAPI.API.Controllers;
 public class ArmazenarController : ControllerBase
 {
     [HttpPost]
-    public IActionResult UploadImagem(IFormFile arquivo)
+    public IActionResult UploadImagem([FromServices] IUploadFotoPerfilUseCase useCase, IFormFile arquivo)
     {
-        var useCase = new UploadFotoPerfilUseCase();
-
         useCase.Execucao(arquivo);
 
         return Created();

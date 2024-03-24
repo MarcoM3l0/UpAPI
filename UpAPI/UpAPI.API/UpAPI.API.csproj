@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\UpAPI.Aplicacao\UpAPI.Aplicacao.csproj" />
+    <ProjectReference Include="..\UpAPI.Infraestrutura\UpAPI.Infraestrutura.csproj" />
   </ItemGroup>
 
 </Project>
