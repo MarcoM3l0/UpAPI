@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpAPI.API", "UpAPI.API\UpAPI.API.csproj", "{4301A021-D29F-400B-ACEE-9542FDE1B56E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UpAPI.API", "UpAPI.API\UpAPI.API.csproj", "{4301A021-D29F-400B-ACEE-9542FDE1B56E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UpAPI.Aplicacao", "..\UpAPI.Aplicacao\UpAPI.Aplicacao.csproj", "{1BCBF745-7BA2-4795-90C7-5890BB9FD48D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpAPI.Infraestrutura", "UpAPI.Infraestrutura\UpAPI.Infraestrutura.csproj", "{E157A0C6-4333-466F-BCF8-E31C52CFDF26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpAPI.Dominio", "UpAPI.Dominio\UpAPI.Dominio.csproj", "{7B16071E-033E-4A9E-B347-A28D133CBD1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{4301A021-D29F-400B-ACEE-9542FDE1B56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4301A021-D29F-400B-ACEE-9542FDE1B56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4301A021-D29F-400B-ACEE-9542FDE1B56E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BCBF745-7BA2-4795-90C7-5890BB9FD48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BCBF745-7BA2-4795-90C7-5890BB9FD48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BCBF745-7BA2-4795-90C7-5890BB9FD48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BCBF745-7BA2-4795-90C7-5890BB9FD48D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E157A0C6-4333-466F-BCF8-E31C52CFDF26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E157A0C6-4333-466F-BCF8-E31C52CFDF26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E157A0C6-4333-466F-BCF8-E31C52CFDF26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E157A0C6-4333-466F-BCF8-E31C52CFDF26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B16071E-033E-4A9E-B347-A28D133CBD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B16071E-033E-4A9E-B347-A28D133CBD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B16071E-033E-4A9E-B347-A28D133CBD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B16071E-033E-4A9E-B347-A28D133CBD1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
